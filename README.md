@@ -25,6 +25,6 @@ A proficient Node.js Developer, adept at crafting scalable and high-performance 
 ## 🗂️ Highlight Projects
 
 - [Wall-e](https://walle.website) - OpenAi's Dalle clone with a feature to post generated images to the home page.
-- [Wave-Mart](https://wave-mart.store/) - A brief description of the project.
+- [Wave-Mart](https://wave-mart.store/) - A e-commerce app, where you can browse the latest fashion trends.
 
 <img src="https://res.cloudinary.com/dv009qyay/image/upload/v1679252299/av-logo-blue_gl7eg3.png" alt="logo" width="300" height="300"/>
