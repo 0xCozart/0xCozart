@@ -2,7 +2,7 @@
 
 A proficient Node.js Developer, adept at crafting scalable and high-performance web applications. My expertise spans technologies such as Express, MongoDB, React, PostgreSQL, GraphQL, TypeScript, Docker, and Firebase. Additionally, I excel in web3 integration, utilizing IPFS and Ethers.js for seamless interaction with decentralized networks.
 
-- 🔭 I’m currently working on a decentralized plog post application.
+- 🔭 I’m currently working on a decentralized blog post application.
 - 🌱 I’m currently learning the Rust programming language.
 - 👯 I’m looking to collaborate on any Web3 or interesting projects/products.
 - 📫 How to reach me: alanvega002@gmail.com and contact@alanv.xyz
